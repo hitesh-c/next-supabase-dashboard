@@ -1,9 +1,14 @@
 <div align="center"><strong>Next.js 14 App router Dashboard Starter Template With Shadcn-ui</strong></div>
+<div align="center">Used Latest Supabase SSR Package </div>
 <br />
 <div align="center">
 <a href="https://next-shadcn-dashboard-starter.vercel.app">View Demo</a>
 <span>
 </div>
+
+![image](https://github.com/user-attachments/assets/5ae9b1c9-32e8-420a-9d37-5aa5382d6e58)
+
+
 
 ## Overview
 
@@ -11,6 +16,7 @@ This is a starter template using the following stack:
 
 - Framework - [Next.js 14](https://nextjs.org/13)
 - Language - [TypeScript](https://www.typescriptlang.org)
+- Auth- [Supabase SSR](https://supabase.com/docs/guides/auth/server-side)
 - Styling - [Tailwind CSS](https://tailwindcss.com)
 - Components - [Shadcn-ui](https://ui.shadcn.com)
 - Schema Validations - [Zod](https://zod.dev)
