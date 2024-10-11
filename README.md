@@ -1,4 +1,4 @@
-#NEXTJS SUPABASE BOILERPLATE 
+# NEXTJS SUPABASE BOILERPLATE 
 
 <div align="center"><strong>Next.js 14 App router Dashboard Starter Template With Shadcn-ui</strong></div>
 <div align="center">Used Latest Supabase SSR Package </div>
