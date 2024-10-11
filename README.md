@@ -1,10 +1,6 @@
 <div align="center"><strong>Next.js 14 App router Dashboard Starter Template With Shadcn-ui</strong></div>
 <div align="center">Used Latest Supabase SSR Package </div>
 <br />
-<div align="center">
-<a href="https://next-shadcn-dashboard-starter.vercel.app">View Demo</a>
-<span>
-</div>
 
 ![image](https://github.com/user-attachments/assets/5ae9b1c9-32e8-420a-9d37-5aa5382d6e58)
 
